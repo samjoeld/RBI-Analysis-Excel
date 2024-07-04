@@ -47,6 +47,3 @@ Feel free to explore the repository for more details and visualizations!
 
 **Author**: Sam Joel
 
-**Contact**: [Your Email or LinkedIn Profile]
-
-**License**: [Specify License]
